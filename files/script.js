@@ -1,6 +1,6 @@
 
 var typed = new Typed(".text", {
-    strings: ["Programmer" , "Data Analyst" , "Cloud Architect"],
+    strings: ["Programmer" , "RPA Developer" , "Cloud Architect", "DevOps"],
     typeSpeed:100,
     backSpeed:70,
     backDelay:10,
